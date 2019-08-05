@@ -10,7 +10,7 @@
 	},
 	"dependencies": {
 		"3d-qml-raub": "file:../",
-		"3d-core-raub": "https://github.com/node-3d/3d-core-raub.git",
+		"3d-core-raub": "1.0.0",
 		"chai": "^4.1.2",
 		"mocha": "^5.0.0",
 		"sinon": "^4.2.2"
